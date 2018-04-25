@@ -1,4 +1,4 @@
-# react_setup_demo
+# React Setup Demo
 The starting code for learning to setup React with Webpack, Babel, ESLint, Jest and Flow.
 
 Refer to the instructions in the following link to learn how the setup is done.
